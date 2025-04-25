@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mujoco>
+    <option timestep="1e-5"/>
+    <option gravity="0 0 0"/>
+    <option integrator="implicitfast"/>
+    <!--Euler, RK4, implicit, implicitfast-->
+   
+    <asset>
+        <texture type="skybox" builtin="gradient" rgb1="1 1 1" rgb2="0.5 0.5 0.5" width="265" height="256"/>
+        <texture name="grid" type="2d" builtin="checker" rgb1="0.1 0.2 0.3" rgb2="0.2 0.3 0.4" width="300" height="300"/>
+        <material name="grid" texture="grid" texrepeat="10 10" reflectance="0.2"/>
+    </asset>
+
+    <default class="main"> 
+        <geom condim="1" contype="1" conaffinity="0" solref="0.0001 12"/>
+        <equality solref="0.0001 12"/>
+    </default>
+
+    <worldbody>
+
+    <light pos="0 0 100"/>
+    <camera name="side view" pos="0 -0.3 0.025" euler="90 0 0" fovy="20" />
+
+
+
+
+
+    </worldbody>
+
+<equality>
+
+</equality>
+
+<actuator>
+</actuator>
+
+
+</mujoco>
