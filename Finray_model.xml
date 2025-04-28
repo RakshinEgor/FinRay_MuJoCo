@@ -13,7 +13,7 @@
 
     <default class="main"> 
         <geom condim="1" contype="1" conaffinity="0" solref="0.0001 12"/>
-        <equality solref="0.00001 12"/>
+        <equality solref="0.0001 12"/>
     </default>
 
     <worldbody>
