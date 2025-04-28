@@ -27,87 +27,87 @@
 
     <body name="IDF_b_0" pos="0 0 0" euler="0 0 0">
 <site name="IDF_b_0_sroot" size="0.0001" pos="0 0 0"/>
-<geom name="IDF_b_0_g" type="box" size="0.001 0.0175 0.0008750000000000001" pos="0 0 0.0008750000000000001" rgba="0.1 0.1 0.1 0.5"/>
+<geom name="IDF_b_0_g" type="box" size="0.0021341711608952024 0.0175 0.0008750000000000001" pos="0 0 0.0008750000000000001" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_0_s" size="0.0001" pos="0 0 0.0008750000000000001"/>
 <body name="IDF_b_1" pos="0 0 0.0017500000000000003" euler="0 0 0">
-<joint name="IDF_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_1_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_1_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_1_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_2" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_2_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_2_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_2_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_3" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_3_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_3_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_3_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_4" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_4_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_4_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_4_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_5" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_5_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_5_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_5_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_6" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_6_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_6_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_6_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_7" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_7_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_7_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_7_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_8" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_8_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_8_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_8_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_9" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_9_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_9_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_9_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_10" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_10_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_10_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_10_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_11" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_11_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_11_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_11_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_12" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_12_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_12_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_12_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_13" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_13_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_13_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_13_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_13_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_13_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_14" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_14_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_14_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_14_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_14_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_14_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_15" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_15_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_15_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_15_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_15_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_15_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_16" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_16_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_16_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_16_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_16_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_16_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_17" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_17_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_17_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_17_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_17_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_17_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_18" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_18_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_18_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_18_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_18_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_18_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_19" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_19_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_19_g" type="box" size="0.001 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_19_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_19_g" type="box" size="0.0021341711608952024 0.0175 0.0017500000000000003" pos="0 0 0.0017500000000000003" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_19_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 <body name="IDF_b_20" pos="0 0 0.0035000000000000005" euler="0 0 0">
-<joint name="IDF_b_20_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.12333333333333335" damping="0.0006166666666666667"/>
-<geom name="IDF_b_20_g" type="box" size="0.001 0.0175 0.0008750000000000001" pos="0 0 0.0008750000000000001" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDF_b_20_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.198859282524227" damping="0.005994296412621135"/>
+<geom name="IDF_b_20_g" type="box" size="0.0021341711608952024 0.0175 0.0008750000000000001" pos="0 0 0.0008750000000000001" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDF_b_20_s" size="0.0001" pos="0 0 0.0008750000000000001"/>
 <site name="IDF_b_21_s" size="0.0001" pos="0 0 0.0017500000000000003"/>
 </body>
@@ -119,100 +119,100 @@
 </body>
 </body>
 </body>
+<site name="IDF_b_11_conn_0" size="0.0001" pos="0 0 0.0013747237301798346" rgba="1 0 0 1"/><site name="IDF_b_11_conn_1" size="0.0001" pos="0 0 0.0013235489206278941" rgba="1 0 0 1"/><site name="IDF_b_11_conn_2" size="0.0001" pos="0 0 0.0013808475284605229" rgba="1 0 0 1"/><site name="IDF_b_11_conn_3" size="0.0001" pos="0 0 0.0013081860074309337" rgba="1 0 0 1"/><site name="IDF_b_11_conn_4" size="0.0001" pos="0 0 0.0013154408013842517" rgba="1 0 0 1"/></body>
 </body>
 </body>
 </body>
 </body>
 </body>
-<site name="IDF_b_6_conn_0" size="0.0001" pos="0 0 0.0007500000000000007" rgba="1 0 0 1"/><site name="IDF_b_6_conn_1" size="0.0001" pos="0 0 0.002513269807084651" rgba="1 0 0 1"/></body>
-<site name="IDF_b_5_conn_2" size="0.0001" pos="0 0 0.00248673019291535" rgba="1 0 0 1"/></body>
+</body>
 </body>
 </body>
 </body>
 </body>
 </body><body name="IDB_b_0" pos="0.035 0 0" euler="0 -26.565051177077994 0">
 <site name="IDB_b_0_sroot" size="0.0001" pos="0 0 0"/>
-<geom name="IDB_b_0_g" type="box" size="0.001 0.0175 0.000978279740156158" pos="0 0 0.000978279740156158" rgba="0.1 0.1 0.1 0.5"/>
+<geom name="IDB_b_0_g" type="box" size="0.0021812960831707456 0.0175 0.000978279740156158" pos="0 0 0.000978279740156158" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_0_s" size="0.0001" pos="0 0 0.000978279740156158"/>
 <body name="IDB_b_1" pos="0 0 0.001956559480312316" euler="0 0 0">
-<joint name="IDB_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_1_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_1_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_1_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_2" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_2_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_2_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_2_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_3" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_3_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_3_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_3_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_4" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_4_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_4_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_4_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_5" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_5_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_5_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_5_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_6" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_6_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_6_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_6_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_7" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_7_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_7_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_7_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_8" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_8_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_8_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_8_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_9" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_9_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_9_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_9_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_10" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_10_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_10_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_10_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_11" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_11_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_11_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_11_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_12" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_12_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_12_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_12_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_13" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_13_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_13_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_13_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_13_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_13_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_14" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_14_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_14_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_14_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_14_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_14_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_15" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_15_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_15_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_15_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_15_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_15_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_16" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_16_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_16_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_16_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_16_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_16_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_17" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_17_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_17_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_17_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_17_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_17_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_18" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_18_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_18_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_18_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_18_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_18_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_19" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_19_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_19_g" type="box" size="0.001 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_19_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_19_g" type="box" size="0.0021812960831707456 0.0175 0.001956559480312316" pos="0 0 0.001956559480312316" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_19_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 <body name="IDB_b_20" pos="0 0 0.003913118960624632" euler="0 0 0">
-<joint name="IDB_b_20_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.11031268688998966" damping="0.0005515634344499483"/>
-<geom name="IDB_b_20_g" type="box" size="0.001 0.0175 0.000978279740156158" pos="0 0 0.000978279740156158" rgba="0.1 0.1 0.1 0.5"/>
+<joint name="IDB_b_20_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.1449046557278975" damping="0.005724523278639488"/>
+<geom name="IDB_b_20_g" type="box" size="0.0021812960831707456 0.0175 0.000978279740156158" pos="0 0 0.000978279740156158" rgba="0.1 0.1 0.1 0.5"/>
 <site name="IDB_b_20_s" size="0.0001" pos="0 0 0.000978279740156158"/>
 <site name="IDB_b_21_s" size="0.0001" pos="0 0 0.001956559480312316"/>
 </body>
@@ -224,72 +224,72 @@
 </body>
 </body>
 </body>
+<site name="IDB_b_11_conn_0" size="0.0001" pos="0 0 0.0016018431692651422" rgba="1 0 0 1"/><site name="IDB_b_11_conn_1" size="0.0001" pos="0 0 0.001446294525046951" rgba="1 0 0 1"/><site name="IDB_b_11_conn_2" size="0.0001" pos="0 0 0.0016203993889004828" rgba="1 0 0 1"/><site name="IDB_b_11_conn_3" size="0.0001" pos="0 0 0.0013994302254512758" rgba="1 0 0 1"/><site name="IDB_b_11_conn_4" size="0.0001" pos="0 0 0.0014215705398369222" rgba="1 0 0 1"/></body>
 </body>
 </body>
 </body>
 </body>
-<site name="IDB_b_7_conn_1" size="0.0001" pos="0 0 0.003266259331056773" rgba="1 0 0 1"/></body>
-<site name="IDB_b_6_conn_0" size="0.0001" pos="0 0 0.0008385254915624224" rgba="1 0 0 1"/></body>
 </body>
-<site name="IDB_b_4_conn_2" size="0.0001" pos="0 0 0.0010977440603179307" rgba="1 0 0 1"/></body>
+</body>
+</body>
 </body>
 </body>
 </body>
 </body><body>
 <joint type="free"/>
-<body name="IDR0_b_0" pos="0 0 0.02" euler="0 90.0 0">
+<body name="IDR0_b_0" pos="0 0 0.03812472373017984" euler="0 89.7910807891094 0">
 <site name="IDR0_b_0_sroot" size="0.0001" pos="0 0 0"/>
-<geom name="IDR0_b_0_g" type="box" size="0.0005 0.0175 0.0005208333333333333" pos="0 0 0.0005208333333333333" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_0_s" size="0.0001" pos="0 0 0.0005208333333333333"/>
-<body name="IDR0_b_1" pos="0 0 0.0010416666666666667" euler="0 0 0">
-<joint name="IDR0_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_1_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_1_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_2" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_2_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_2_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_3" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_3_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_3_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_4" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_4_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_4_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_5" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_5_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_5_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_6" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_6_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_6_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_7" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_7_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_7_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_8" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_8_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_8_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_9" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_9_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_9_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_10" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_10_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_10_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_11" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_11_g" type="box" size="0.0005 0.0175 0.0010416666666666667" pos="0 0 0.0010416666666666667" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_11_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
-<body name="IDR0_b_12" pos="0 0 0.0020833333333333333" euler="0 0 0">
-<joint name="IDR0_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.025900000000000006" damping="0.00012950000000000003"/>
-<geom name="IDR0_b_12_g" type="box" size="0.0005 0.0175 0.0005208333333333333" pos="0 0 0.0005208333333333333" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR0_b_12_s" size="0.0001" pos="0 0 0.0005208333333333333"/>
-<site name="IDR0_b_13_s" size="0.0001" pos="0 0 0.0010416666666666667"/>
+<geom name="IDR0_b_0_g" type="box" size="0.001658734711844299 0.0175 0.0003314320774106788" pos="0 0 0.0003314320774106788" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_0_s" size="0.0001" pos="0 0 0.0003314320774106788"/>
+<body name="IDR0_b_1" pos="0 0 0.0006628641548213577" euler="0 0 0">
+<joint name="IDR0_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_1_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_1_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_2" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_2_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_2_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_3" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_3_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_3_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_4" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_4_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_4_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_5" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_5_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_5_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_6" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_6_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_6_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_7" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_7_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_7_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_8" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_8_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_8_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_9" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_9_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_9_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_10" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_10_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_10_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_11" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_11_g" type="box" size="0.001658734711844299 0.0175 0.0006628641548213577" pos="0 0 0.0006628641548213577" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_11_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
+<body name="IDR0_b_12" pos="0 0 0.0013257283096427153" euler="0 0 0">
+<joint name="IDR0_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4860204385165885" damping="0.007430102192582943"/>
+<geom name="IDR0_b_12_g" type="box" size="0.001658734711844299 0.0175 0.0003314320774106788" pos="0 0 0.0003314320774106788" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR0_b_12_s" size="0.0001" pos="0 0 0.0003314320774106788"/>
+<site name="IDR0_b_13_s" size="0.0001" pos="0 0 0.0006628641548213577"/>
 </body>
 </body>
 </body>
@@ -305,59 +305,59 @@
 </body>
 </body><body>
 <joint type="free"/>
-<body name="IDR1_b_0" pos="0 0 0.02176326980708465" euler="0 80.0 0">
+<body name="IDR1_b_0" pos="0 0 0.0380735489206279" euler="0 90.10737442154105 0">
 <site name="IDR1_b_0_sroot" size="0.0001" pos="0 0 0"/>
-<geom name="IDR1_b_0_g" type="box" size="0.0005 0.0175 0.0004688792548793036" pos="0 0 0.0004688792548793036" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_0_s" size="0.0001" pos="0 0 0.0004688792548793036"/>
-<body name="IDR1_b_1" pos="0 0 0.0009377585097586072" euler="0 0 0">
-<joint name="IDR1_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_1_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_1_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_2" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_2_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_2_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_3" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_3_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_3_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_4" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_4_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_4_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_5" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_5_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_5_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_6" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_6_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_6_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_7" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_7_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_7_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_8" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_8_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_8_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_9" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_9_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_9_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_10" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_10_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_10_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_11" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_11_g" type="box" size="0.0005 0.0175 0.0009377585097586072" pos="0 0 0.0009377585097586072" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_11_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
-<body name="IDR1_b_12" pos="0 0 0.0018755170195172144" euler="0 0 0">
-<joint name="IDR1_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.02876984467313606" damping="0.0001438492233656803"/>
-<geom name="IDR1_b_12_g" type="box" size="0.0005 0.0175 0.0004688792548793036" pos="0 0 0.0004688792548793036" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR1_b_12_s" size="0.0001" pos="0 0 0.0004688792548793036"/>
-<site name="IDR1_b_13_s" size="0.0001" pos="0 0 0.0009377585097586072"/>
+<geom name="IDR1_b_0_g" type="box" size="0.002058966747368664 0.0175 0.00033287969756626014" pos="0 0 0.00033287969756626014" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_0_s" size="0.0001" pos="0 0 0.00033287969756626014"/>
+<body name="IDR1_b_1" pos="0 0 0.0006657593951325203" euler="0 0 0">
+<joint name="IDR1_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_1_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_1_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_2" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_2_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_2_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_3" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_3_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_3_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_4" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_4_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_4_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_5" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_5_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_5_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_6" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_6_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_6_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_7" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_7_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_7_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_8" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_8_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_8_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_9" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_9_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_9_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_10" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_10_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_10_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_11" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_11_g" type="box" size="0.002058966747368664 0.0175 0.0006657593951325203" pos="0 0 0.0006657593951325203" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_11_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
+<body name="IDR1_b_12" pos="0 0 0.0013315187902650405" euler="0 0 0">
+<joint name="IDR1_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="2.829757452841589" damping="0.014148787264207945"/>
+<geom name="IDR1_b_12_g" type="box" size="0.002058966747368664 0.0175 0.00033287969756626014" pos="0 0 0.00033287969756626014" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR1_b_12_s" size="0.0001" pos="0 0 0.00033287969756626014"/>
+<site name="IDR1_b_13_s" size="0.0001" pos="0 0 0.0006657593951325203"/>
 </body>
 </body>
 </body>
@@ -373,59 +373,59 @@
 </body>
 </body><body>
 <joint type="free"/>
-<body name="IDR2_b_0" pos="0 0 0.01823673019291535" euler="0 100.0 0">
+<body name="IDR2_b_0" pos="0 0 0.03813084752846053" euler="0 89.75323220384884 0">
 <site name="IDR2_b_0_sroot" size="0.0001" pos="0 0 0"/>
-<geom name="IDR2_b_0_g" type="box" size="0.00075 0.0175 0.0006004571671693622" pos="0 0 0.0006004571671693622" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_0_s" size="0.0001" pos="0 0 0.0006004571671693622"/>
-<body name="IDR2_b_1" pos="0 0 0.0012009143343387244" euler="0 0 0">
-<joint name="IDR2_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_1_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_1_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_2" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_2_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_2_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_3" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_3_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_3_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_4" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_4_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_4_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_5" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_5_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_5_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_6" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_6_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_6_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_7" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_7_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_7_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_8" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_8_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_8_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_9" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_9_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_9_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_10" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_10_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_10_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_11" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_11_g" type="box" size="0.00075 0.0175 0.0012009143343387244" pos="0 0 0.0012009143343387244" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_11_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
-<body name="IDR2_b_12" pos="0 0 0.002401828668677449" euler="0 0 0">
-<joint name="IDR2_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.07582113469412344" damping="0.0003791056734706172"/>
-<geom name="IDR2_b_12_g" type="box" size="0.00075 0.0175 0.0006004571671693622" pos="0 0 0.0006004571671693622" rgba="0.1 0.1 0.1 0.5"/>
-<site name="IDR2_b_12_s" size="0.0001" pos="0 0 0.0006004571671693622"/>
-<site name="IDR2_b_13_s" size="0.0001" pos="0 0 0.0012009143343387244"/>
+<geom name="IDR2_b_0_g" type="box" size="0.0016557785783661311 0.0175 0.00033126005907805706" pos="0 0 0.00033126005907805706" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_0_s" size="0.0001" pos="0 0 0.00033126005907805706"/>
+<body name="IDR2_b_1" pos="0 0 0.0006625201181561141" euler="0 0 0">
+<joint name="IDR2_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_1_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_1_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_2" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_2_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_2_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_3" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_3_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_3_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_4" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_4_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_4_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_5" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_5_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_5_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_6" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_6_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_6_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_7" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_7_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_7_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_8" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_8_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_8_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_9" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_9_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_9_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_10" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_10_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_10_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_11" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_11_g" type="box" size="0.0016557785783661311 0.0175 0.0006625201181561141" pos="0 0 0.0006625201181561141" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_11_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
+<body name="IDR2_b_12" pos="0 0 0.0013250402363122282" euler="0 0 0">
+<joint name="IDR2_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.4788571527601848" damping="0.007394285763800924"/>
+<geom name="IDR2_b_12_g" type="box" size="0.0016557785783661311 0.0175 0.00033126005907805706" pos="0 0 0.00033126005907805706" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR2_b_12_s" size="0.0001" pos="0 0 0.00033126005907805706"/>
+<site name="IDR2_b_13_s" size="0.0001" pos="0 0 0.0006625201181561141"/>
 </body>
 </body>
 </body>
@@ -439,9 +439,145 @@
 </body>
 </body>
 </body>
-</body><site name="focal_site" pos="-0.01 0 0.02" size="0.001" rgba="0 1 0 0.1" type="sphere"/><geom name="focal_line_0" type="cylinder" pos="-0.005 0.0 0.02" quat="0.7071067811865476 0 0.7071067811865476 0" size="0.0005 0.005" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><geom name="focal_line_1" type="cylinder" pos="-0.005 0.0 0.020881634903542327" quat="0.766044443118978 0 0.6427876096865393 0" size="0.0005 0.005077133059428725" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><geom name="focal_line_2" type="cylinder" pos="-0.005 0.0 0.019118365096457673" quat="0.6427876096865393 0 0.7660444431189781 0" size="0.0005 0.005077133059428725" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><body name="moving_cylinder" pos="-0.031 0 0.04" euler="90 0 0"><joint name="slider_joint" type="slide" axis="1 0 0" limited="true" range="-0.5 0.5" damping="1"/><geom name="moving_cylinder_geom" type="cylinder" pos="0 0 0" size="0.03 0.1" rgba="0.8 0.2 0.2 0.4" euler="0 0 90" condim="4" contype="1" conaffinity="15" friction="0.9 0.2 0.2" solref="0.001 2"/><site name="cylinder_site" pos="0 0 0" size="0.001" rgba="0 0 1 1"/></body></worldbody>
+</body><body>
+<joint type="free"/>
+<body name="IDR3_b_0" pos="0 0 0.03805818600743094" euler="0 90.2023268251335 0">
+<site name="IDR3_b_0_sroot" size="0.0001" pos="0 0 0"/>
+<geom name="IDR3_b_0_g" type="box" size="0.0015702590672558286 0.0175 0.00033331782357041984" pos="0 0 0.00033331782357041984" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_0_s" size="0.0001" pos="0 0 0.00033331782357041984"/>
+<body name="IDR3_b_1" pos="0 0 0.0006666356471408397" euler="0 0 0">
+<joint name="IDR3_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_1_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_1_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_2" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_2_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_2_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_3" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_3_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_3_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_4" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_4_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_4_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_5" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_5_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_5_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_6" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_6_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_6_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_7" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_7_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_7_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_8" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_8_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_8_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_9" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_9_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_9_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_10" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_10_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_10_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_11" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_11_g" type="box" size="0.0015702590672558286 0.0175 0.0006666356471408397" pos="0 0 0.0006666356471408397" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_11_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+<body name="IDR3_b_12" pos="0 0 0.0013332712942816793" euler="0 0 0">
+<joint name="IDR3_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="1.2535565040417145" damping="0.006267782520208573"/>
+<geom name="IDR3_b_12_g" type="box" size="0.0015702590672558286 0.0175 0.00033331782357041984" pos="0 0 0.00033331782357041984" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR3_b_12_s" size="0.0001" pos="0 0 0.00033331782357041984"/>
+<site name="IDR3_b_13_s" size="0.0001" pos="0 0 0.0006666356471408397"/>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body><body>
+<joint type="free"/>
+<body name="IDR4_b_0" pos="0 0 0.03806544080138426" euler="0 90.15748777169404 0">
+<site name="IDR4_b_0_sroot" size="0.0001" pos="0 0 0"/>
+<geom name="IDR4_b_0_g" type="box" size="0.0010767671976936763 0.0175 0.00033311072352417115" pos="0 0 0.00033311072352417115" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_0_s" size="0.0001" pos="0 0 0.00033311072352417115"/>
+<body name="IDR4_b_1" pos="0 0 0.0006662214470483423" euler="0 0 0">
+<joint name="IDR4_b_1_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_1_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_1_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_2" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_2_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_2_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_2_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_3" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_3_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_3_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_3_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_4" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_4_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_4_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_4_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_5" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_5_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_5_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_5_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_6" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_6_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_6_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_6_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_7" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_7_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_7_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_7_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_8" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_8_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_8_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_8_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_9" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_9_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_9_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_9_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_10" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_10_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_10_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_10_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_11" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_11_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_11_g" type="box" size="0.0010767671976936763 0.0175 0.0006662214470483423" pos="0 0 0.0006662214470483423" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_11_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+<body name="IDR4_b_12" pos="0 0 0.0013324428940966846" euler="0 0 0">
+<joint name="IDR4_b_12_j" type="hinge" axis="0 1 0" pos="0 0 0" stiffness="0.40445048376695897" damping="0.002022252418834795"/>
+<geom name="IDR4_b_12_g" type="box" size="0.0010767671976936763 0.0175 0.00033311072352417115" pos="0 0 0.00033311072352417115" rgba="0.1 0.1 0.1 0.5"/>
+<site name="IDR4_b_12_s" size="0.0001" pos="0 0 0.00033311072352417115"/>
+<site name="IDR4_b_13_s" size="0.0001" pos="0 0 0.0006662214470483423"/>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body>
+</body><site name="focal_site" pos="-0.00927015455080972 0 0.03809092155533521" size="0.001" rgba="0 1 0 0.1" type="sphere"/><geom name="focal_line_0" type="cylinder" pos="-0.00463507727540486 0.0 0.03810782264275753" quat="0.7083947769501937 0 0.7058164350521212 0" size="0.0005 0.004635108088894" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><geom name="focal_line_1" type="cylinder" pos="-0.00463507727540486 0.0 0.03808223523798156" quat="0.7064438986602636 0 0.7077690428704037 0" size="0.0005 0.004635085414648117" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><geom name="focal_line_2" type="cylinder" pos="-0.00463507727540486 0.0 0.03811088454189787" quat="0.708627863273659 0 0.7055824199852264 0" size="0.0005 0.004635120264869838" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><geom name="focal_line_3" type="cylinder" pos="-0.00463507727540486 0.0 0.03807455378138307" quat="0.7058571874236966 0 0.7083541705688676 0" size="0.0005 0.004635106174943427" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><geom name="focal_line_4" type="cylinder" pos="-0.00463507727540486 0.0 0.03807818117835973" quat="0.706134308511301 0 0.7080779182711934 0" size="0.0005 0.004635094785026517" rgba="0 1 0 0.1" contype="0" conaffinity="0"/><body name="moving_cylinder" pos="-0.017134171160895204 0 0.03" euler="90 0 0"><joint name="slider_joint" type="slide" axis="1 0 0" limited="true" range="-0.5 0.5" damping="1"/><geom name="moving_cylinder_geom" type="cylinder" pos="0 0 0" size="0.015 0.1" rgba="0.8 0.2 0.2 0.4" euler="0 0 90" condim="4" contype="1" conaffinity="15" friction="0.9 0.2 0.2" solref="0.001 2"/><site name="cylinder_site" pos="0 0 0" size="0.001" rgba="0 0 1 1"/></body></worldbody>
 
-<equality><weld name="connect_fin" site1="IDF_b_21_s" site2="IDB_b_21_s"/><weld name="connect_rib_A0" site1="IDF_b_6_conn_0" site2="IDR0_b_0_sroot"/><weld name="connect_rib_B0" site1="IDB_b_6_conn_0" site2="IDR0_b_13_s"/><weld name="connect_rib_A1" site1="IDF_b_6_conn_1" site2="IDR1_b_0_sroot"/><weld name="connect_rib_B1" site1="IDB_b_7_conn_1" site2="IDR1_b_13_s"/><weld name="connect_rib_A2" site1="IDF_b_5_conn_2" site2="IDR2_b_0_sroot"/><weld name="connect_rib_B2" site1="IDB_b_4_conn_2" site2="IDR2_b_13_s"/></equality><actuator>
+<equality><weld name="connect_fin" site1="IDF_b_21_s" site2="IDB_b_21_s"/><weld name="connect_rib_A0" site1="IDF_b_11_conn_0" site2="IDR0_b_0_sroot"/><weld name="connect_rib_B0" site1="IDB_b_11_conn_0" site2="IDR0_b_13_s"/><weld name="connect_rib_A1" site1="IDF_b_11_conn_1" site2="IDR1_b_0_sroot"/><weld name="connect_rib_B1" site1="IDB_b_11_conn_1" site2="IDR1_b_13_s"/><weld name="connect_rib_A2" site1="IDF_b_11_conn_2" site2="IDR2_b_0_sroot"/><weld name="connect_rib_B2" site1="IDB_b_11_conn_2" site2="IDR2_b_13_s"/><weld name="connect_rib_A3" site1="IDF_b_11_conn_3" site2="IDR3_b_0_sroot"/><weld name="connect_rib_B3" site1="IDB_b_11_conn_3" site2="IDR3_b_13_s"/><weld name="connect_rib_A4" site1="IDF_b_11_conn_4" site2="IDR4_b_0_sroot"/><weld name="connect_rib_B4" site1="IDB_b_11_conn_4" site2="IDR4_b_13_s"/></equality><actuator>
 <position name="cylinder_actuator" joint="slider_joint" kp="20000" dampratio="1" ctrlrange="-0.5 0.5"/></actuator>
 
 
