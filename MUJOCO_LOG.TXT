@@ -67,3 +67,12 @@ WARNING: Nan, Inf or huge value in QACC at DOF 159. The simulation is unstable. 
 Sat Apr 26 18:18:08 2025
 WARNING: Nan, Inf or huge value in QACC at DOF 152. The simulation is unstable. Time = 0.0017.
 
+Tue Apr 29 01:37:54 2025
+WARNING: XML contains a 'NaN'. Please check it carefully.
+
+Tue Apr 29 01:37:54 2025
+WARNING: XML contains a 'NaN'. Please check it carefully.
+
+Tue Apr 29 01:37:54 2025
+WARNING: XML contains a 'NaN'. Please check it carefully.
+
